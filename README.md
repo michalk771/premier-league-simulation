@@ -1,3 +1,11 @@
+## How to install from Docker
+```command
+docker-compose build
+```
+```command
+docker-compose up -d
+```
+
 ## How to install
 
 ```command
